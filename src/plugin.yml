@@ -1,0 +1,5 @@
+main: de.datm4rc.labwars.Main
+name: LabWars
+version: 1.0.0
+author: DatM4rc
+commands:
